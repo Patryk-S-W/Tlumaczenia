@@ -1,0 +1,23 @@
+LOCALE_FILE
+FILETYPE STANDART
+#RC_FLIGHT_NAME1 = "Harpie" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC1 = #COUNT# najodwa¿niejszych najemników w tej galaktyce ofiaruje swoj¹ pomoc za cenê #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC1 = Wybiliœmy setki berserkerów, i tuziny obcych statków. Wojna to nasz sposób na ¿ycie. Jest nas ju¿ tylko #COUNT#, ale za to wszyscy s¹ najlepszymi pilotami, którzy wyszli ca³o z wielu ró¿nych bitew. Jeœli potrzebujecie naszych us³ug, z chêci¹ je wam zapewnimy, oczywiœcie za odpowiedni¹ op³at¹.
+#RC_FLIGHT_NAME2 = "Latawce" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC2 = #COUNT# rzezimieszków jest gotowych do zapewnienia bezpieczeñstwa ka¿demu, kto bêdzie chcia³ siê podzieliæ sum¹ #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC2 = W ka¿dej bitwie walczymy, jakby to by³a nasza ostatnia. Odk¹d rozpoczniemy œpiewaæ nasz¹ pieœñ œmierci nie spoczniemy, dopóki wróg nie wyzionie ducha. Jest nas #COUNT# i nie wiemy co to strach. Ka¿dy, kto potrzebuje wsparcia podczas walki mo¿e na nas liczyæ. Cena za nasze us³ugi nie jest wygórowana, to tylko #PRICE# kredytów.
+#RC_FLIGHT_NAME3 = "Feniks" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC3 = #COUNT# profesjonalistów zapewni wam niezbêdne wsparcie podczas ka¿dej bitwy. Nasza cena to #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC3 = Potrzeba wam solidnego wsparcia podczas bitwy? Nie jesteœcie pewni swoich mo¿liwoœci? Wróg jest zbyt liczny, albo zbyt potê¿ny? #COUNT# zahartowanych w boju profesjonalistów stanowi najlepsz¹ gwarancjê waszego bezpieczeñstwa. Z chêci¹ weŸmiemy udzia³ w ka¿dej bitwie, o ile bêdziecie sk³onni zap³aciæ sumê #PRICE# kredytów,
+#RC_FLIGHT_NAME4 = "Stój, bo strzelam!" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC4 = #COUNT# pilotów chêtnie oka¿e wam swoj¹ lojalnoœæ, za niewielka op³at¹ w postaci #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC4 = #COUNT# rzezimieszków chêtnie poka¿e na co ich staæ podczas walki. Wystarczy suma #PRICE# kredytów, ¿eby móc zobaczyæ nas w akcji!
+#RC_FLIGHT_NAME5 = "Diabelskie pomioty" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC5 = #COUNT# najemników chêtnie pozbêdzie siê twoich k³opotów za niewielk¹ sumê #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC5 = Za sumê #PRICE# kredytów dostaniesz na swe us³ugi #COUNT# desperatów, którzy chêtnie rzuc¹ siê w wir walki, w ka¿dej chwili. Wybieraj¹c nas masz 100% gwarancji, ¿e odniesiesz sukces.
+#RC_FLIGHT_NAME6 = "NajeŸdŸcy" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC6 = #COUNT# utalentowanych m³odzieñców z radoœci¹ i niezwyk³¹ precyzj¹ wyprawi¹ na tamten œwiat ka¿dego wroga, za niewielk¹ sumê #PRICE# kredytów.
+#RC_FLIGHT_FULL_DESC6 = Jeœli twoi wrogowie za bardzo rozpanoszyli siê w tym œwiecie, to #COUNT# dzielnych pilotów chêtnie wyœle ich w ostatni¹ podró¿. Wszystko to za niewielk¹ sumê #PRICE# kredytów.
+#RC_FLIGHT_NAME7 = "VekThor" - oddzia³ najemników.
+#RC_FLIGHT_SHORT_DESC7 = Jest nas #COUNT#, a za cenê #PRICE# kredytów rozwi¹¿emy wszystkie twoje problemy - broni¹ dowolnego kalibru.
+#RC_FLIGHT_FULL_DESC7 = Nasz oddzia³ liczy sobie #COUNT# najemników, którzy szybko i sprawnie zajm¹ siê wszystkimi twoimi zmartwieniami, za sumê #PRICE# kredytów. Zapewniamy pe³n¹ dyskrecjê, dobrze wyszkolon¹ kadrê oraz profesjonalne podejœcie.

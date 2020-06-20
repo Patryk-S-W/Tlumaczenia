@@ -1,0 +1,8 @@
+LOCALE_FILE
+FILETYPE STANDART
+#UIE_AccuracyHigh = Wysoka
+#UIE_AccuracyMedium = Œrednia
+#UIE_AccuracyLow = Niska
+#UIE_GenerationPoor = Niska
+#UIE_GenerationStd = Œrednia
+#UIE_GenerationUltimate = Wysoka

@@ -1,0 +1,111 @@
+</size:14/>
+</color:IntWhite,font:int00b/>X-BOW SOFTWARE|</size:10/>
+||
+</color:LightYellow,font:int00b/>Kierownik projektu/Dyrektor generalny|
+</font:int01/>
+</color:White/>W³adimir "Dixand" Korniejew
+||
+</color:LightYellow,font:int00b/>Dyrektor wykonawczy|
+</font:int01/>
+</color:White/>Wasilij "Asmix" Korniejew
+||
+</color:LightYellow,font:int00b/>G³ówny programista|
+</font:int01/>
+</color:White/>Andriej "CodeDaemon" Denisenco
+||
+</color:LightYellow,font:int00b/>Programiœci|
+</font:int01/>
+</color:White/>Aleksander "Kolobrod" Fadiejenko|
+</color:White/>Aleksander "Aliende" Cze³owalnikow
+||
+</color:LightYellow,font:int00b/>Projekt poziomów|
+</font:int01/>
+</color:White/>Aleksander "Aliende" Cze³owalnikow|
+</color:White/>W³adimir "VogDb" Owdienko
+||
+</color:LightYellow,font:int00b/>Projekty 2D|
+</font:int01/>
+</color:White/>Konstantin "smile" Brai³ow|
+</color:White/>Aleksiej "alexey" Barbanakow
+||
+</color:LightYellow,font:int00b/>Modelowanie 3D|
+</font:int01/>
+</color:White/>Aleksander "PUSHkin" Mysin|
+</color:White/>Konstantin "NEXYS" Chorn|
+</color:White/>Sergiej "String" So³owiew|
+</color:White/>Michai³ "Air-A-Cobra" Markin
+||
+</color:LightYellow,font:int00b/>Projekt gry|
+</font:int01/>
+</color:White/>Jelena "Babella" Babkowa|
+</color:White/>W³adimir "Dixand" Korniejew
+||
+</color:LightYellow,font:int00b/>Muzyka|
+</font:int01/>
+</color:White/>W³adimir Owczarenko|
+</color:White/>Sergiej Pieriekrestow|
+</color:White/>Wasilij "Asmix" Korniejew
+||
+</color:LightYellow,font:int00b/>Projekt udŸwiêkowienia|
+</font:int01/>
+</color:White/>Oleg Procenko
+||
+</color:LightYellow,font:int00b/>Scenariusz|
+</font:int01/>
+</color:White/>Jelena "Babella" Babkowa
+||
+</color:LightYellow,font:int00b/>|
+</font:int01/>
+</color:White/>|
+</color:White/>|
+</color:White/>|
+</color:White/>|
+||
+||
+</size:14/>
+</color:IntWhite,font:int00b/>Firma 1C</size:10/>
+||
+</color:LightYellow,font:int00b/>Producent|
+</font:int01/>
+</color:White/>Sergiej Gierasew
+||
+</color:LightYellow,font:int00b/>Koordynacja testów|
+</font:int01/>
+</color:White/>Pawe³ Krutow|
+</color:White/>Konstantin Szawruk
+||
+</color:LightYellow,font:int00b/>PR oraz Marketing|
+</font:int01/>
+</color:White/>Niko³aj Barysznikow|
+</color:White/>Swiet³ana Gorobiec|
+</color:White/>Anatolij Subotin|
+</color:White/>Aleksiej Artemienko
+||
+</color:LightYellow,font:int00b/>G³ówny tester|
+</font:int01/>
+</color:White/>Aleksander Sziszow
+||
+</color:LightYellow,font:int00b/>Testerzy|
+</font:int01/>
+</color:White/>Aleksander Barkow|
+</color:White/>Dmitrij Kijatkin|
+</color:White/>Sergiej Kijatkin|
+</color:White/>Aleksander Trifonow|
+</color:White/>Dmitrij Sawin|
+</color:White/>Aleksander £atyszew|
+</color:White/>Aleksander Sze³aputow|
+</color:White/>Oleg Bujancew|
+</color:White/>W³adys³aw "Lonhaire" Sinowiew
+||
+</color:LightYellow,font:int00b/>Projekt pude³ka|
+</font:int01/>
+</color:White/>Aleksiej Artemienko|
+</color:White/>Anatolij Subotin
+||
+</color:LightYellow,font:int00b/>Materia³y promocyjne oraz DTP|
+</font:int01/>
+</color:White/>Sergiej Konowa³ow|
+</color:White/>Tatiana Katowa
+||
+</size:12/></color:LightYellow,font:int00b/>Specjalne podziêkowania dla Jurija Mirosznikowa|
+

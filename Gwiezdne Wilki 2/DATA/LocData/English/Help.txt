@@ -1,0 +1,56 @@
+</color:GuiTextLight,font:int00/>Mysz|</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>LPM (Lewy przycisk myszy)	</color:GuiTextNormal/>Zaznaczenie||
+</color:GuiTextNormal/>PPM (Prawy przycisk myszy)	</color:GuiTextNormal/>Domyœlna akcja (ruch, atak, itp.)||
+</color:GuiTextNormal/>Podwójne klikniêcie LPM	</color:GuiTextNormal/>Wyœrodkowanie||
+</color:GuiTextNormal/>Alt + LPM			</color:GuiTextNormal/>Wyœrodkowanie||
+</color:GuiTextNormal/>Kó³ko myszy			</color:GuiTextNormal/>Zmiana odleg³oœci||
+</color:GuiTextNormal/>LPM + PPM + ruch mysz¹	</color:GuiTextNormal/>Zmiana odleg³oœci||
+</color:GuiTextNormal/>Ctrl+ LPM			</color:GuiTextNormal/>Atak||
+</color:GuiTextNormal/>Shift+ PPM + ruch mysz¹	</color:GuiTextNormal/>Ruch pionowy||
+||
+</color:GuiTextLight,font:int00/>Klawiatura|	</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>"["			</color:GuiTextNormal/>Spowolnienie||
+</color:GuiTextNormal/>"]"			</color:GuiTextNormal/>Przyspieszenie||
+</color:GuiTextNormal/>"<"			</color:GuiTextNormal/>Panel kontaktów||
+</color:GuiTextNormal/>">"			</color:GuiTextNormal/>Ukrycie panelu kontaktów||
+</color:GuiTextNormal/>"+"			</color:GuiTextNormal/>Zbli¿enie||
+</color:GuiTextNormal/>"-"			</color:GuiTextNormal/>Oddalenie||
+</color:GuiTextNormal/>"Ctrl + A"		</color:GuiTextNormal/>Wybór wszystkich statków||
+</color:GuiTextNormal/>"S"			</color:GuiTextNormal/>Zatrzymanie wybranych statków||
+</color:GuiTextNormal/>"D"			</color:GuiTextNormal/>Dokowanie zaznaczonych myœliwców w bazie||
+</color:GuiTextNormal/>"Z"			</color:GuiTextNormal/>Dokowanie wszystkich myœliwców w bazie||
+</color:GuiTextNormal/>"Ctrl + Z"		</color:GuiTextNormal/>Wystrzelenie wszystkich myœliwców||
+</color:GuiTextNormal/>"X"			</color:GuiTextNormal/>Poka¿/ukryj panel dzia³añ specjalnych||
+</color:GuiTextNormal/>"M"			</color:GuiTextNormal/>Ruch pionowy i poziomy||
+</color:GuiTextNormal/>"A"			</color:GuiTextNormal/>Atak||
+</color:GuiTextNormal/>"R"			</color:GuiTextNormal/>Atak rakietami||
+</color:GuiTextNormal/>"E"			</color:GuiTextNormal/>Eskorta||
+</color:GuiTextNormal/>"B"			</color:GuiTextNormal/>Ekran statku-bazy||
+</color:GuiTextNormal/>"1-9"			</color:GuiTextNormal/>Wybór odpowiedzi w dialogu||
+</color:GuiTextNormal/>"1-6"			</color:GuiTextNormal/>Wybór oddzia³u||
+</color:GuiTextNormal/>"TAB"			</color:GuiTextNormal/>Mapa sektora||
+</color:GuiTextNormal/>"BACKSPACE"		</color:GuiTextNormal/>Mapa ogólna||
+</color:GuiTextNormal/>"V"			</color:GuiTextNormal/>Tryb radaru na mapie||
+</color:GuiTextNormal/>"Caps Lock"		</color:GuiTextNormal/>Poka¿/ukryj znaczniki wysokoœci||
+</color:GuiTextNormal/>"Q"			</color:GuiTextNormal/>Poka¿/ukryj dziennik||
+</color:GuiTextNormal/>"L"			</color:GuiTextNormal/>Poka¿/ukryj listê komunikatów||
+</color:GuiTextNormal/>"H"			</color:GuiTextNormal/>Poka¿/ukryj wskazówki||
+</color:GuiTextNormal/>"Esc"			</color:GuiTextNormal/>Anuluj zaznaczenie, wyjdŸ do menu|
+||
+</color:GuiTextLight,font:int00/>Kamera|</size:3/>|</size:10/>
+</font:int01/>
+</color:GuiTextNormal/>"F"			</color:GuiTextNormal/>Prze³¹cz pomiêdzy kamer¹ swobodn¹ i wyœrodkowan¹||
+</color:GuiTextNormal/>"G"			</color:GuiTextNormal/>Prze³¹cz kamerê||
+</color:GuiTextNormal/>"F9"			</color:GuiTextNormal/>Kamera swodobna||
+</color:GuiTextNormal/>"F10"			</color:GuiTextNormal/>Kamera wyœrodkowana||
+</color:GuiTextNormal/>"F11"			</color:GuiTextNormal/>Kamera œledz¹ca||
+</color:GuiTextNormal/>"F12"			</color:GuiTextNormal/>Kamera widoku trzeciej osoby||
+||
+</color:GuiTextLight,font:int00/>Dodatkowe|</size:3/>|</size:10/>
+</font:int01,size:10/>
+</color:GuiTextNormal/>"F1"			</color:GuiTextNormal/>Okno wskazówek||
+</color:GuiTextNormal/>"F5"			</color:GuiTextNormal/>Szybki zapis||
+</color:GuiTextNormal/>"F8"			</color:GuiTextNormal/>Szybki odczyt||
+</color:1 1 0,font:int00/>

@@ -1,0 +1,15 @@
+LOCALE_FILE
+FILETYPE SYSTEM
+MBT_APPLY	=	Zastosuj
+MBT_CONFIRMATION	=	ZatwierdŸ
+MBT_EXIT	=	WyjdŸ
+MBT_ERROR	=	Anuluj
+MBT_INFORMATION 	=	Szczegó³y
+GAME_MONEY_FORMAT	=	%d
+#SYS_LOADING	=	Wczytywanie...
+#SYS_LOADINGLEVEL	=	Wczytywanie poziomu...|Proszê czekaæ...
+#SYS_INITIALIZINGGAME	=	Rozpoczynanie rozgrywki…|Proszê czekaæ
+#SYS_FATALERROR	=	Powa¿ny b³¹d
+#SYS_ERRORLOADINGLEVEL	=	B³¹d wczytywania poziomu!
+#SYS_PROFILE	=	Profil
+#SYS_PROFILENOTCREATED	=	Profil nie zosta³ utworzony!
